@@ -10,7 +10,8 @@ Test Results Report: <a href="https://docs.google.com/document/d/1wJCOYaD-JGn-zn
 This is a desktop app, that was made specially for learning purposes. You can google it.
 
 Link to download this calculation app: <a href="https://www.dropbox.com/sh/wsps9gtgtc0dyvh/AAC8bUpyPkZ8rBIuitiKoE8aa?dl=0">Go to dropbox</a>   
-Link to app requirenements: <a href="https://docs.google.com/document/d/1loeyTyjU1pK6NvDCj2WB7dpaRbbnWkGb/edit?usp=sharing&ouid=118236792404406729521&rtpof=true&sd=true">Go to Google Docs</a>
+Link to app requirenements: <a href="https://docs.google.com/document/d/1loeyTyjU1pK6NvDCj2WB7dpaRbbnWkGb/edit?usp=sharing&ouid=118236792404406729521&rtpof=true&sd=true">Go to Google Docs</a> 
+
 ![Image alt](https://github.com/MaximGitmax/Test_Documentation/raw/main/calc.png)
 
 
