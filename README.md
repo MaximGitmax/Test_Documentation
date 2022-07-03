@@ -22,6 +22,14 @@ Link to app requirenements: <a href="https://docs.google.com/document/d/1loeyTyj
 Check-List: <a href="https://docs.google.com/spreadsheets/d/1uoq2un_QyBhD_R9bnfBuDNu6bgut6-20Kl0rO53tRXI/edit?usp=sharing">Go to Google Sheets</a>  
 
 Table for Domain Testing: <a href="https://docs.google.com/spreadsheets/d/1MbqgY4Z7-d_K7NO9FrUE1bzt8n-Hk0yHspo2LNy4SfI/edit?usp=sharing">Go to Google Sheets</a> 
-<p></p>
+
 
 ![Image alt](https://github.com/MaximGitmax/Test_Documentation/raw/main/registration_form.png)
+
+
+<h3> Choosing the restaurant for reservation </h3>
+
+  Firstly was generated Pairwise and created Solution Table: <a href="https://docs.google.com/spreadsheets/d/1LRUwJ3JlLw2ig5DqxK5mWFlxXr5iUE3VnHW6Ut5BAIA/edit?usp=sharing">Go to Google Sheets</a> 
+  Then was written Test-Cases: <a href="https://docs.google.com/spreadsheets/d/1bMAX4vhl7c-CfQc8pBswoPXRmvqa5Bvj-gMvaSYW_xg/edit?usp=sharing">Go to Google Sheets</a> 
+  
+  ![Image alt](https://github.com/MaximGitmax/Test_Documentation/raw/main/registration_form.png)
