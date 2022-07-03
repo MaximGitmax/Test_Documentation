@@ -16,11 +16,12 @@ Link to app requirenements: <a href="https://docs.google.com/document/d/1loeyTyj
 
 
 
-<h2>Resource for Reservation the tables in restaurants</h2>
+<h2>Resource for Tables Reservation in Restaurants</h2>
 
 <h3>Registration form</h3>
 Check-List: <a href="https://docs.google.com/spreadsheets/d/1uoq2un_QyBhD_R9bnfBuDNu6bgut6-20Kl0rO53tRXI/edit?usp=sharing">Go to Google Sheets</a>  
 
 Table for Domain Testing: <a href="https://docs.google.com/spreadsheets/d/1MbqgY4Z7-d_K7NO9FrUE1bzt8n-Hk0yHspo2LNy4SfI/edit?usp=sharing">Go to Google Sheets</a> 
+<p></p>
 
 ![Image alt](https://github.com/MaximGitmax/Test_Documentation/raw/main/registration_form.png)
