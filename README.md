@@ -1,4 +1,4 @@
-<b>This repo contains various Test Documentations, that was written by me.</b>
+<b>This repo contains various Test Documentation, that has been written by me.</b>
 
 <h2>Calculation app</h2>
 
@@ -29,8 +29,8 @@ Table for Domain Testing: <a href="https://docs.google.com/spreadsheets/d/1MbqgY
 
 <h3> Choosing the restaurant for reservation </h3>
 
-  Firstly was generated Pairwise and created Solution Table: <a href="https://docs.google.com/spreadsheets/d/1LRUwJ3JlLw2ig5DqxK5mWFlxXr5iUE3VnHW6Ut5BAIA/edit?usp=sharing">Go to Google Sheets</a> 
+  Firstly has been generated Pairwise and created Solution Table: <a href="https://docs.google.com/spreadsheets/d/1LRUwJ3JlLw2ig5DqxK5mWFlxXr5iUE3VnHW6Ut5BAIA/edit?usp=sharing">Go to Google Sheets</a> 
   
-  Then was written Test-Cases: <a href="https://docs.google.com/spreadsheets/d/1bMAX4vhl7c-CfQc8pBswoPXRmvqa5Bvj-gMvaSYW_xg/edit?usp=sharing">Go to Google Sheets</a> 
+  Then has been written Test-Cases: <a href="https://docs.google.com/spreadsheets/d/1bMAX4vhl7c-CfQc8pBswoPXRmvqa5Bvj-gMvaSYW_xg/edit?usp=sharing">Go to Google Sheets</a> 
   
   ![Image alt](https://github.com/MaximGitmax/Test_Documentation/raw/main/Choosing_place.png)
