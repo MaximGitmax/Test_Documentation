@@ -33,4 +33,4 @@ Table for Domain Testing: <a href="https://docs.google.com/spreadsheets/d/1MbqgY
   
   Then has been written Test-Cases: <a href="https://docs.google.com/spreadsheets/d/1bMAX4vhl7c-CfQc8pBswoPXRmvqa5Bvj-gMvaSYW_xg/edit?usp=sharing">Go to Google Sheets</a> 
   
-  ![Image alt](https://github.com/MaximGitmax/Test_Documentation/raw/main/Choosing_place.png)
+  ![Image alt](https://github.com/MaximGitmax/Test_Documentation/raw/main/Choosing_rest.png)
