@@ -25,9 +25,24 @@ Table for Domain Testing: <a href="https://docs.google.com/spreadsheets/d/1MbqgY
 
 <h2>Website Bug Reports</h2>
 
-Link to Bug Reports: <a href="https://docs.google.com/spreadsheets/d/1wEIh8gXq7caw_pvjjV7GrznZ4SbI42dFR_QAFbACrDg/edit?usp=sharing">Go to Google Sheets</a>
+Link to the Bug Reports: <a href="https://docs.google.com/spreadsheets/d/1wEIh8gXq7caw_pvjjV7GrznZ4SbI42dFR_QAFbACrDg/edit?usp=sharing">Go to Google Sheets</a>
 
 Link to the Website: https://qatest-dev.indvp.com/
+
+
+<h2>Website Bodum.com Test Cases</h2>
+
+Link to the Test Cases: <a href="https://docs.google.com/spreadsheets/d/1VH2wK45pub5o4yrDLbkutBrjsF0XtW74zrl5VNca__w/edit?usp=sharing">Go to Google Sheets</a>
+
+Link to the Website: https://www.bodum.com/gb/en/
+
+
+
+<h2>Check List Android App</h2>
+
+Link to the Check List: <a href="https://docs.google.com/spreadsheets/d/1Dw5EqJVPsL-eJ_giVIOJpRNnGMl0B3AaGz3FxU1-nps/edit?usp=sharing">Go to Google Sheets</a>
+
+Link to download APK file: <a href="https://drive.google.com/file/d/1HTPz10LbBb_vXNlJt_tgXeuipnpgTSd7/view?usp=sharing">Go to Google Disk</a>
 
 
 
